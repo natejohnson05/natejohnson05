@@ -6,7 +6,7 @@ I'm Nate, a 21 year old guy born and raised in Las Vegas, Nevada. Currently, I a
 <!--START_SECTION:waka-->
 
 ```text
-Other   6 hrs 32 mins   ████████████████████████▒   97.76 %
+Other   9 hrs 9 mins    ████████████████████████▓   98.39 %
 ```
 
 <!--END_SECTION:waka-->
