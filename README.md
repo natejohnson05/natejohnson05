@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nate, a 21 year old guy born and raised in Las Vegas, Nevada. Currently, I am studying computer science with an emphasis in cyber operations at Cedarville University. I don't have much on here yet, but will be adding current and past projects in the near future!
+I'm Nate, a 22 year old guy born and raised in Las Vegas, Nevada. Currently, I am studying computer science with an emphasis in cyber operations at Cedarville University. I don't have much on here yet, but will be adding current and past projects in the near future!
 
 ### Code
 <!--START_SECTION:waka-->
